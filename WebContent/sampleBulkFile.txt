@@ -1,0 +1,5 @@
+https://careers.peopleclick.com/careerscp/client_aig/external/search.do	AIG	LIVE	remark
+http://www.amazon.jobs/results?country=US	Amazon	LIVE	remark
+https://avayacorp.authoria.net/joblist.html	Avaya	LIVE	remark
+https://bnymellon.taleo.net/careersection/6/jobsearch.ftl	BNY Mellon	LIVE	remark
+https://sjobs.brassring.com/TGWebHost/home.aspx?partnerid=25771&siteid=5405	BAE Systems	LIVE	remark
